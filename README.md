@@ -1,4 +1,4 @@
 # pullrequesttest
 
 Matong Add
-[link] (./Chinese.md)
+[link](./Chinese.md)
